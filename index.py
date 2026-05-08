@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuración
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8321777390:AAEbxf7tpdxu-bec0jLL1u6WCT4P1ouNgj8")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8323089139:AAGMHTiXoiL5yAOaC1AMhz0qSD_W67jG_wk")
 CREDENTIALS_FILE = "user_credentials.json"
 
 def load_user_credentials():
